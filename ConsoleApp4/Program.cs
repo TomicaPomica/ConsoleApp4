@@ -7,7 +7,9 @@ namespace ConsoleApp4
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-             Console.WriteLine("novo");
+             Console.WriteLine("novo"); 
+            Console.WriteLine("novo");
+            //promjena
         }
     }
 }
